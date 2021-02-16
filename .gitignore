@@ -1,0 +1,11 @@
+.gradle
+.idea
+out
+.DS_Store
+build
+node_modules
+*.iml
+classes
+web/dist
+docker-std-err.log
+docker-std-out.log

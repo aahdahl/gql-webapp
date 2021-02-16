@@ -1,0 +1,9 @@
+graphql:
+  servlet:
+    enabled: true
+    mapping: /api/graphql
+  playground:
+    enabled: true
+    mapping: /api/playground
+    endpoint: /api/graphql
+    pageTitle: Cloud App GraphQL Playground
